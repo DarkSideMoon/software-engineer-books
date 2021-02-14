@@ -30,6 +30,19 @@ A collection of technical and software engineering books for developers.
 - Designing Data-Intensive Applications **by** Martin Kleppmann *(Book)* [Amazon](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 - Site Reliability Engineering: How Google Runs Production Systems **by** Niall Richard Murphy *(Book)* [Amazon](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X)
 
+### Self Development :mortar_board:
+- The Pragmatic Programmer, From Journeyman To Master, 2nd Edition **by** Andrew Hunt *(Book)* [Amazon](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
+- 97 Things Every Programmer Should Know **by** Kevlin Henney *(Book)* [Amazon](https://www.amazon.com/Things-Every-Programmer-Should-Know/dp/0596809484)
+- Mythical Man-Month **by** Frederick Brooks Jr. *(Book)* [Amazon](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
+- Working Effectively with Legacy Code 1st Edition **by** Michael Feathers *(Book)* [Amazon](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
+- Software Engineering at Google: Lessons Learned from Programming Over Time, 1st Edition **by** Titus Winters *(Book)* [Amazon](https://www.amazon.com/Software-Engineering-Google-Lessons-Programming/dp/1492082791)
+- Every Programmer Should Know [Git](https://github.com/mtdvio/every-programmer-should-know)
+
+### Interview :sunglasses:
+- Cracking the Coding Interview: 189 Programming Questions and Solutions, 6th Edition **by** Gayle Laakmann McDowell *(Book)* [Amazon](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+- System Design Interview – An insider's guide, 2nd Edition **by** Alex Xu *(Book)* [Amazon](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
+- Back-End Developer Interview Questions [Github](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions#tdd)
+
 ## Contribution :raised_hands:
 Want to contribute? We encourage community feedback and contributions. Please follow our [contributing guidelines](/master/CONTRIBUTING.md).
 Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/PRomashchenko.svg?style=social&label=Follow%20%40PRomashchenko)](https://twitter.com/PRomashchenko)
