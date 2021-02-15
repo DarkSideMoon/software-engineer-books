@@ -30,6 +30,10 @@ A collection of technical and software engineering books for developers.
 - Designing Data-Intensive Applications **by** Martin Kleppmann *(Book)* [Amazon](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 - Site Reliability Engineering: How Google Runs Production Systems **by** Niall Richard Murphy *(Book)* [Amazon](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X)
 
+### Caching
+- Redis in Action **by** Josiah Carlson *(Book)* [Manning](https://www.manning.com/books/redis-in-action)
+- Redis Essentials **by** Maxwell Dayvson Da Silva *(Book)* [Amazon](https://www.amazon.com/Redis-Essentials-Maxwell-Dayvson-Silva/dp/1784392456)
+
 ### Self Development :mortar_board:
 - The Pragmatic Programmer, From Journeyman To Master, 2nd Edition **by** Andrew Hunt *(Book)* [Amazon](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
 - 97 Things Every Programmer Should Know **by** Kevlin Henney *(Book)* [Amazon](https://www.amazon.com/Things-Every-Programmer-Should-Know/dp/0596809484)
