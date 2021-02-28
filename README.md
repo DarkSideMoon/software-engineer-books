@@ -30,9 +30,21 @@ A collection of technical and software engineering books for developers.
 - Designing Data-Intensive Applications **by** Martin Kleppmann *(Book)* [Amazon](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 - Site Reliability Engineering: How Google Runs Production Systems **by** Niall Richard Murphy *(Book)* [Amazon](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X)
 
+### Design patterns :bulb:
+- Design Patterns: Elements of Reusable Object-Oriented Software **by** Erich Gamma, Richard Helm, Ralph Johnson *(Book)*  [Amazon](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+- Domain-Driven Design: Tackling Complexity in the Heart of Software **by**  Eric Evans *(Book)*  [Amazon](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/)
+- Patterns of Enterprise Application Architecture **by** Martin Fowler *(Book)* [Amazon](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/)
+- Head First Design Patterns: A Brain-Friendly Guide **by**  Eric Freeman *(Book)* [Amazon](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/)
+
 ### Caching
 - Redis in Action **by** Josiah Carlson *(Book)* [Manning](https://www.manning.com/books/redis-in-action)
 - Redis Essentials **by** Maxwell Dayvson Da Silva *(Book)* [Amazon](https://www.amazon.com/Redis-Essentials-Maxwell-Dayvson-Silva/dp/1784392456)
+
+### Algorithms :cyclone:
+- Introduction to Algorithms, 3rd Edition **by** Thomas H. Cormen *(Book)* [Amazon](https://www.amazon.com/Introduction-Algorithms-Edition-Thomas-Cormen/dp/0262033844)
+- Algorithms, 4th Edition **by** Robert Sedgewick, Kevin Wayne *(Book)* [Amazon](https://www.amazon.com/Algorithms-4th-Edition-Robert-Sedgewick/dp/032157351X)
+- Grokking Algorithms, 1st Edition **by** Aditya Bhargava *(Book)* [Amazon](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
+- Algorithms Unlocked **by** Thomas H. Cormen *(Book)* [Amazon](https://www.amazon.com/Algorithms-Unlocked-Press-Thomas-Cormen/dp/0262518805)
 
 ### Self Development :mortar_board:
 - The Pragmatic Programmer, From Journeyman To Master, 2nd Edition **by** Andrew Hunt *(Book)* [Amazon](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
