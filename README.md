@@ -3,7 +3,7 @@
 ![Software Engineer Books](https://img.shields.io/badge/-Software%20Engineer%20Books-002157?style=flat-square&logo=GitBook)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-A collection of technical and software engineering books for developers.
+A collection of technical and software engineering books for developers and engineers.
 
 ## Collection of books
 
@@ -36,9 +36,20 @@ A collection of technical and software engineering books for developers.
 - Patterns of Enterprise Application Architecture **by** Martin Fowler *(Book)* [Amazon](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/)
 - Head First Design Patterns: A Brain-Friendly Guide **by**  Eric Freeman *(Book)* [Amazon](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/)
 
-### Caching
+### Message brokers :mailbox_with_mail:
+#### Apache Kafka
+#### RabbitMQ
+#### Apache ActiveMQ
+#### Azure Service Bus
+#### Amazon MQ
+#### NATS 
+
+### Caching :musical_note:
+#### Redis
 - Redis in Action **by** Josiah Carlson *(Book)* [Manning](https://www.manning.com/books/redis-in-action)
 - Redis Essentials **by** Maxwell Dayvson Da Silva *(Book)* [Amazon](https://www.amazon.com/Redis-Essentials-Maxwell-Dayvson-Silva/dp/1784392456)
+#### Aerospike
+#### Memcached
 
 ### Algorithms :cyclone:
 - Introduction to Algorithms, 3rd Edition **by** Thomas H. Cormen *(Book)* [Amazon](https://www.amazon.com/Introduction-Algorithms-Edition-Thomas-Cormen/dp/0262033844)
@@ -53,6 +64,47 @@ A collection of technical and software engineering books for developers.
 - Working Effectively with Legacy Code 1st Edition **by** Michael Feathers *(Book)* [Amazon](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
 - Software Engineering at Google: Lessons Learned from Programming Over Time, 1st Edition **by** Titus Winters *(Book)* [Amazon](https://www.amazon.com/Software-Engineering-Google-Lessons-Programming/dp/1492082791)
 - Every Programmer Should Know [Git](https://github.com/mtdvio/every-programmer-should-know)
+
+### Databases
+#### Relational Databases
+- MSSQL
+- PostgreSQL
+- Oracle
+- MySQL
+- SQLite 
+- MariaDB
+
+#### Non-Relational Databases
+##### Key-Value Stores
+- Redis
+- Aerospike
+- Memcached
+- Amazon DynamoDB
+- Microsoft Azure Cosmos DB
+##### Wide Column Stores
+- Cassandra 
+- HBase 
+##### Document Stores
+- MongoDB
+- Microsoft Azure Cosmos DB
+- Amazon DynamoDB
+- Couchbase 
+##### Search Engines
+- Elasticsearch
+ - 
+ - 
+ - 
+ - 
+- Splunk
+- Solr
+##### Graph Databases
+- Neo4j 
+- Microsoft Azure Cosmos DB
+##### Time Series
+- InfluxDB
+- Graphite
+- Prometheus
+- Kdb+
 
 ### Interview :sunglasses:
 - Cracking the Coding Interview: 189 Programming Questions and Solutions, 6th Edition **by** Gayle Laakmann McDowell *(Book)* [Amazon](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
