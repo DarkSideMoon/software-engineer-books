@@ -91,10 +91,10 @@ A collection of technical and software engineering books for developers and engi
 - Couchbase 
 ##### Search Engines
 - Elasticsearch
- - 
- - 
- - 
- - 
+ - Elasticsearch: The Definitive Guide: A Distributed Real-Time Search and Analytics Engine, 1st Edition **by** Clinton Gormley, Zachary Tong *(Book)* [Amazon](https://www.amazon.com/Elasticsearch-Definitive-Distributed-Real-Time-Analytics-ebook/dp/B00SLXVBC4)
+ - Elasticsearch in Action **by** Radu Gheorghe, Matthew Lee Hinman, and Roy Russo *(Book)* [Manning](https://www.manning.com/books/elasticsearch-in-action)
+ - Advanced Elasticsearch 7.0: A practical guide to designing, indexing, and querying advanced distributed search engines **by** Wai Tak Wong  *(Book)* [Amazon](https://www.amazon.com/Advanced-Elasticsearch-7-0-practical-distributed/dp/1789957753)
+ - Learning Elasticsearch **by** Abhishek Andhavarapu *(Book)* [Packt](https://www.packtpub.com/product/learning-elasticsearch/9781787128453) *(Examples)* [Github](https://github.com/packtpublishing/learning-elasticsearch)
 - Splunk
 - Solr
 ##### Graph Databases
