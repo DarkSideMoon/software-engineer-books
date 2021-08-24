@@ -115,5 +115,11 @@ A collection of technical and software engineering books for developers and engi
 Want to contribute? We encourage community feedback and contributions. Please follow our [contributing guidelines](/master/CONTRIBUTING.md).
 Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/PRomashchenko.svg?style=social&label=Follow%20%40PRomashchenko)](https://twitter.com/PRomashchenko)
 
+## Other cool repositories with books
+- [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
+- [Most-recommended-programming-books](https://github.com/daolf/Most-recommended-programming-books)
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+- to be continued...
+
 ## License
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
