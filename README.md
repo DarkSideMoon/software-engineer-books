@@ -32,9 +32,14 @@ A collection of technical and software engineering books for developers and engi
 
 ### Design patterns :bulb:
 - Design Patterns: Elements of Reusable Object-Oriented Software **by** Erich Gamma, Richard Helm, Ralph Johnson *(Book)*  [Amazon](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
-- Domain-Driven Design: Tackling Complexity in the Heart of Software **by**  Eric Evans *(Book)*  [Amazon](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/)
+- Domain-Driven Design: Tackling Complexity in the Heart of Software **by**  Eric Evans *(Book)* [Amazon](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/)
 - Patterns of Enterprise Application Architecture **by** Martin Fowler *(Book)* [Amazon](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/)
 - Head First Design Patterns: A Brain-Friendly Guide **by**  Eric Freeman *(Book)* [Amazon](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/)
+
+### Project Management from Engineering side :office:
+- The Deadline: A Novel About Project Management **by** Tom DeMarco *(Book)* [Amazon](https://www.amazon.com/Deadline-Novel-About-Project-Management-ebook/dp/B006MN4RAS)
+- Waltzing with Bears: Managing Risk on Software Projects **by** Tom DeMarco, Tim Lister *(Book)* [Amazon](https://www.amazon.com/Waltzing-Bears-Managing-Software-Projects-ebook/dp/B00DY3KQKO)
+- The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win **by** Gene Kim, Kevin Behr, George Spafford *(Book)* [Amazon](https://www.amazon.co.uk/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B078Y98RG8/)
 
 ### Message brokers :mailbox_with_mail:
 #### Apache Kafka
