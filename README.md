@@ -124,6 +124,9 @@ Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/h
 - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 - [Most-recommended-programming-books](https://github.com/daolf/Most-recommended-programming-books)
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+- [learn-anything/books](https://github.com/learn-anything/books)
+- [software-architecture-books](https://github.com/mhadidg/software-architecture-books)
+- [awesome-database-learning](https://github.com/pingcap/awesome-database-learning)
 - to be continued...
 
 ## License
